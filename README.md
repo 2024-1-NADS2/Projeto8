@@ -5,44 +5,53 @@
 </p>
 
 # Pura Acqua Brasil
+## Integrantes: <a href="">Bruno Mangueira</a>, <a href="">Ryan Oliveira</a>
 
-## Integrantes: <a href="https://www.linkedin.com/in/ryan-monsores-de-oliveira-2b54092a1/">Ryan Monsores de Oliveira</a>, Bruno Mangueira</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/"> Victor Bruno </a>, <a href="https://www.linkedin.com/in/victorbarq/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/victorbarq/"> Jose Carlos </a> 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
-
-
-
-<br><br>
-Meu projeto promove e estimula as pessoas a cuidarem e preservarem a vida marinha, contribuindo e conscientizando as pessoas de alguma forma
-<br><br>
-May the force be with you!
-<br><br>
+## Descrição
+Desenvolvemos um site em React Js dedicado à conscientização e preservação da vida marinha, em alinhamento com o Objetivo de Desenvolvimento Sustentável (ODS) 14 da ONU, "Vida na Água". Este objetivo busca conservar e utilizar de maneira sustentável os oceanos, mares e recursos marinhos. No site, os visitantes podem explorar informações detalhadas sobre a biodiversidade marinha, os desafios ambientais que ameaçam esses ecossistemas e as iniciativas necessárias para sua proteção. A plataforma é projetada para ser interativa e educativa, oferecendo recursos visuais impactantes que enfatizam a importância da preservação marinha para o desenvolvimento sustentável e a saúde do nosso planeta.
 
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
+|-->Documentos<br>
+|-->Imagens<br>
+|-->Src<br>
   &emsp;|-->Frontend<br>
+  &emsp;|-->Backend<br>
 |readme.md<br>
 
+<br><br>
+## 💻 Configuração para Desenvolvimento
+<br><br>
+<p align="center">
+<!-- <img src="imagens/PROJETO.jpeg" alt="NOME DO JOGO" border="0"> -->
+  
+No nosso projeto, utilizamos os seguintes elementos para criar nosso blog!
+Utilizamos três tipos de tecnologia para garantir que nosso projeto seja desenvolvido com sucesso:
+
+- React e Node.js
+- Web API em C#
+- Banco de Dados em C#
+
+Além disso, utilizamos as seguintes ferramentas para colocar nosso site no ar:
+
+- Servidor da Azure
+- Netlify para conectar todas as partes
+
+Com todos os sensores devidamente conectados, conseguimos colocar nosso site no ar com sucesso.
+</p>
+
+## 🛠 Instalação
+Abrir o terminal do visual studio e chegar no diretório do projeto em react
+Após isto rode os seguintes comandos:
+
+npm install
+npm run dev
+
+## :art: Design
+<a href="https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1342637305332490209">Figma</a>
 
 
 ## 🎓 Referências
-
-Aqui estão as referências usadas no projeto.
-
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.

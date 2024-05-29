@@ -1,0 +1,7 @@
+.carousel-image {
+    width: 100%; /* Garante que a imagem ocupe toda a largura do carrossel */
+    height: 600px; /* Define uma altura fixa para todas as imagens */
+    object-fit: cover; /* Redimensiona a imagem para cobrir completamente o espaço sem distorcer */
+  
+  }
+  

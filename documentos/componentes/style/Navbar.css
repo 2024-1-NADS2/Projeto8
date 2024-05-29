@@ -1,0 +1,52 @@
+.custom-navbar {
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+}
+
+.navbar-logo {
+  max-width: 200px;
+  height: auto;
+}
+
+.nav-link {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 15px 10px;
+  color: #006eff;
+  background-color: transparent;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, color 0.3s ease; /* Transição apenas para cor de fundo e cor do texto */
+}
+
+.nav-link:hover {
+  background-color: #007bff; /* Alteração de cor ao passar o mouse */
+  color: rgb(255, 255, 255); /* Alteração de cor do texto ao passar o mouse */
+}
+
+.navbar-toggler-icon {
+  font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: #006eff;
+}
+
+.custom-navbar .navbar-nav.ml-3 {
+  margin-left: 20px;
+}
+
+.custom-navbar .navbar-nav .nav-item .nav-link {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+/* Adiciona uma transição suave à rotação do ícone do hamburguer */
+.navbar-toggler {
+  transition: transform 0.3s ease;
+}
+
+/* Rotaciona o ícone do hamburguer para a posição "aberta" quando o menu está aberto */
+.navbar-toggler.open {
+  transform: rotate(90deg);
+}
